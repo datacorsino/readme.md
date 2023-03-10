@@ -21,7 +21,7 @@ Obrigado por visitar o meu perfil
     </div>
 <div style="display: inline_block"><br>
             <img align="center" alt="ludo-pl/sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-            <img align="center" alt="ludo-dba" id="image" style="width : 40px; height:30px;"  class="img-responsive" src="https://camo.githubusercontent.com/361ebf317957972ed0a921cc40ce94b0ed138c4fc1bd8f0745074bbab63339ff/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f362f36382f4f7261636c655f53514c5f446576656c6f7065725f6c6f676f2e737667" title="ícone Sql, piloto, banco de dados de jogo  Livre" >
+            <img align="center" alt="ludo-dba" id="image" width : "40" height:"30" class="img-responsive" src="https://camo.githubusercontent.com/361ebf317957972ed0a921cc40ce94b0ed138c4fc1bd8f0745074bbab63339ff/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f362f36382f4f7261636c655f53514c5f446576656c6f7065725f6c6f676f2e737667" title="ícone Sql, piloto, banco de dados de jogo  Livre" >
             <img align="center" alt="ludo-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
             <img align="center" alt="ludo-pbi" height="30" width="40" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg">
             <img align="center" alt="ludo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
